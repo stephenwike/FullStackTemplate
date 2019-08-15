@@ -1,3 +1,8 @@
+# ------------BUILD
+# docker build -t service-a-build .
+# ------------RUN
+# docker run -p 8090:8090 --name service-a -h service-a -d service-a-build
+
 FROM node:latest
 
 # Create app directory
@@ -18,5 +23,5 @@ COPY . .
 RUN npm run build
 WORKDIR /usr/app/build
 
-EXPOSE 8080
+EXPOSE 8090
 ENTRYPOINT [ "npm", "start" ]
