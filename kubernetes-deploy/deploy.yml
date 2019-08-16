@@ -1,0 +1,68 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: service-a
+spec:
+  selector:
+    matchLabels:
+      app: fullstack-template
+  replicas: 7
+  minReadySeconds: 10
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
+  template:
+    metadata:
+      labels:
+        app: fullstack-template
+    spec:
+      containers:
+      - name: service-a
+        image: service-a-build
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8090
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-a
+spec:
+  selector:
+    matchLabels:
+      app: fullstack-template
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: fullstack-template
+    spec:
+      containers:
+      - name: web-a
+        image: web-a-build
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 80
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: database-b
+spec:
+  selector:
+    matchLabels:
+      app: fullstack-template
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: fullstack-template
+    spec:
+      containers:
+      - name: database-b
+        image: database-b-build
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 1433
