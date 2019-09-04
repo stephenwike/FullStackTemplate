@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: database-b
+spec:
+  selector:
+    matchLabels:
+      app: fullstack-template
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: fullstack-template
+    spec:
+      containers:
+      - name: database-b
+        image: database-b-build
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 1433

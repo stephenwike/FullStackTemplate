@@ -1,0 +1,17 @@
+{
+  "name": "producer-javascript",
+  "version": "1.0.0",
+  "description": "An example javascript producer for rabbitmq example",
+  "main": "send.js",
+  "scripts": {
+    "start": "node send.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Wike",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "dotenv": "^8.1.0",
+    "log-to-file": "^2.0.1"
+  }
+}

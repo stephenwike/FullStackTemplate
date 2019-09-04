@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-a
+spec:
+  selector:
+    matchLabels:
+      app: fullstack-template
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: fullstack-template
+    spec:
+      containers:
+      - name: web-a
+        image: web-a-build
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 80

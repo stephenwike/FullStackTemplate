@@ -1,0 +1,14 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: toller-role-binding
+  namespace: example-namespace
+subjects:
+- kind: ServiceAccount
+  name: tiller
+  namespace: example-namespace
+roleRef:
+  kind: Role
+  name: tiller-role
+  apiGroup: rbac.authorization.k8s.io
+  

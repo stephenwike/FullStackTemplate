@@ -1,0 +1,17 @@
+Docker build 
+
+--rabbitmq
+`docker build -t rabbit-mq-build .`
+
+--producers
+----javascript
+`docker build -t producer-javascript-build .\producer-javascript\`
+
+Docker run
+
+--rabbitmq
+`docker run --rm -p 5672:5672 -d --name rabbit-mq -h rabbit-mq rabbit-mq-build`
+
+--producers
+----javascript
+`docker run --rm producer-javascript-build`

@@ -1,0 +1,27 @@
+version: '3'
+
+networks:
+  rabbitmq-net:
+    driver: bridge
+
+services:
+  rabbitmq:
+    image: bitnami/rabbitmq
+    environment:
+      - RABBITMQ_USERNAME=user
+      - RABBITMQ_PASSWORD=password
+    ports:
+      - '5672:5672'
+    networks:
+      - rabbitmq-net
+
+  producer-javascript:
+    build:
+      context: .
+      dockerfile: ./producer-javascript/Dockerfile
+    networks:
+      - rabbitmq-net
+    depends_on:
+      - "rabbitmq"
+    volumes:
+      - ./producer-javascript/logs:/app/logs

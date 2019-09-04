@@ -1,0 +1,64 @@
+*HELM DEPLOYMENT*
+
+--------------------------------------------For Tiller installed inside the cluster
+
+ADDING SECRETS
+https://developer.epages.com/blog/tech-stories/kubernetes-deployments-with-helm-secrets/
+
+requires gpg (I used cmder)
+
+create key
+`gpg --generate-key (linux: gpg --key-gen)`
+
+enter key passphrase
+
+get fingerprint
+``
+
+ADDING SECRETS - Attempt 2
+https://helm.sh/docs/charts_tips_and_tricks/
+
+
+
+SECURING INSTALLATION
+https://github.com/helm/helm/blob/master/docs/securing_installation.md
+
+SCRIPT (cmd):
+`
+
+echo "Installing secrets plugin..."
+
+helm plugin install https://github.com/futuresimple/helm-secrets
+
+echo "Secrets plugin installed."
+
+
+
+echo "Installing tiller..."
+
+helm init \
+  --history-max 200 \
+  echo "this line is to enable tls to verify remote certificates." \
+  --tiller-tls-verify \
+  echo "this line sets the overrides the storage flag for tiller to use secret file" \
+  --override 'spec.template.spec.containers[0].command'='{/tiller,--storage=secret}'
+
+echo "Tiller installed."
+
+`
+
+
+--------------------------------------------For Tiller installed locally
+
+Run tiller
+`tiller`
+
+Run helm
+`helm init --client-only --history-max 200`
+
+Set environment variable to helm directory
+`export HELM_HOME=`$HOME\path\.helm
+
+Set environment variable to point to tiller
+`export HELM_HOST=localhost:44134`
+
