@@ -1,0 +1,28 @@
+version: '3'
+
+networks:
+  sql-migrate-net:
+    driver: bridge
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    container_name: sqlserver
+    hostname: sqlserver
+    restart: unless-stopped
+    environment:
+      - SA_PASSWORD=d6j#Kl6pSJde7
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+    ports:
+     - "1433:1433"
+    networks:
+     - sql-migrate-net
+
+  migrate:
+    image: mssql-migrate-build
+    container_name: mssql-migrate
+    depends_on:
+     - "sqlserver"
+    networks:
+    - sql-migrate-net
