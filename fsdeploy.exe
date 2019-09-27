@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const cli = require('./CLI/start');
+
+cli.Start();
+

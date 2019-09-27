@@ -1,1 +1,10 @@
 rabbit-mq/producer-javascript/node_modules
+ 
+node_modules
+rabbit-mq/consumer-javascript/node_modules/
+rabbit-mq/producer-consumer-examples/Csharp/c#-rabbitmq-consumer/bin
+rabbit-mq/producer-consumer-examples/Csharp/c#-rabbitmq-consumer/obj
+rabbit-mq/producer-consumer-examples/Csharp/c#-rabbitmq-producer/bin
+rabbit-mq/producer-consumer-examples/Csharp/c#-rabbitmq-producer/obj
+rabbit-mq/producer-consumer-examples/Csharp/Csharp/obj
+rabbit-mq/producer-consumer-examples/Csharp/Csharp/bin

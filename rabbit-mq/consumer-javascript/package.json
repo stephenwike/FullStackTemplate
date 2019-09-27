@@ -1,0 +1,16 @@
+{
+  "name": "consumer-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receiver.js",
+  "scripts": {
+    "start": "node receiver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Wike",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "log-to-file": "^2.0.1"
+  }
+}

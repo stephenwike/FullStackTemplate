@@ -1,0 +1,185 @@
+2019.09.05, 16:08:04.0648 UTC -> connecting...
+2019.09.05, 16:08:04.0701 UTC -> connected.
+2019.09.05, 16:08:04.0708 UTC -> connected.
+2019.09.05, 16:08:04.0710 UTC ->  [*] Waiting for messages in %s. To exit press CTRL+C
+2019.09.05, 16:10:11.0934 UTC ->  [x] Received %s
+2019.09.05, 16:10:16.0935 UTC ->  [x] Received %s
+2019.09.05, 16:10:21.0937 UTC ->  [x] Received %s
+2019.09.05, 16:10:26.0941 UTC ->  [x] Received %s
+2019.09.05, 16:10:31.0944 UTC ->  [x] Received %s
+2019.09.05, 16:10:36.0946 UTC ->  [x] Received %s
+2019.09.05, 16:10:41.0949 UTC ->  [x] Received %s
+2019.09.05, 16:10:46.0954 UTC ->  [x] Received %s
+2019.09.05, 16:10:50.0951 UTC -> connecting...
+2019.09.05, 16:10:50.0993 UTC -> connected.
+2019.09.05, 16:10:50.0993 UTC -> Creating channel...
+2019.09.05, 16:10:51.0000 UTC -> Channel created.
+2019.09.05, 16:10:51.0003 UTC ->  [*] Waiting for messages in %s. To exit press CTRL+C
+2019.09.05, 16:10:51.0959 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:10:56.0962 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:01.0964 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:06.0967 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:11.0970 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:16.0975 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:21.0977 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:26.0981 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:31.0984 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:36.0987 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:41.0991 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:46.0995 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:51.0996 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:11:57.0001 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:02.0004 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:07.0007 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:12.0010 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:17.0012 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:22.0015 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:27.0018 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:32.0021 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:37.0040 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:42.0028 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:47.0029 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:52.0031 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:12:57.0035 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:02.0038 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:07.0040 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:12.0044 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:17.0047 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:22.0051 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:27.0053 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:32.0055 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:37.0059 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:42.0062 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:47.0066 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:52.0067 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:13:57.0070 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:02.0074 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:07.0077 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:12.0079 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:17.0084 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:22.0086 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:27.0090 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:32.0093 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:37.0096 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:42.0099 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:47.0101 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:52.0104 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:14:57.0106 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:02.0108 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:07.0111 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:12.0114 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:17.0116 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:22.0119 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:27.0121 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:32.0124 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:37.0128 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:42.0133 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:47.0136 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:52.0139 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:15:57.0141 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:02.0145 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:07.0148 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:12.0151 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:17.0153 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:22.0156 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:27.0158 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:32.0161 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:37.0168 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:42.0165 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:47.0168 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:52.0172 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:16:57.0174 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:02.0177 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:07.0179 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:12.0181 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:17.0183 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:22.0186 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:27.0189 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:32.0192 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:37.0196 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:42.0199 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:47.0201 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:52.0204 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:17:57.0207 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:02.0209 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:07.0212 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:12.0215 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:17.0218 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:22.0220 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:27.0225 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:32.0229 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:37.0234 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:42.0235 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:47.0240 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:52.0241 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:18:57.0244 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:02.0247 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:07.0249 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:12.0250 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:17.0253 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:22.0256 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:27.0260 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:32.0263 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:37.0265 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:42.0268 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:47.0270 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:52.0273 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:19:57.0278 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:02.0281 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:07.0284 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:12.0286 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:17.0290 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:22.0293 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:27.0296 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:32.0298 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:37.0301 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:42.0303 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:47.0305 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:52.0307 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:20:57.0309 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:02.0311 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:07.0316 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:12.0318 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:17.0320 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:22.0324 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:27.0326 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:32.0330 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:37.0334 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:42.0336 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:47.0338 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:52.0341 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:21:57.0343 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:02.0346 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:07.0348 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:12.0352 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:17.0366 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:22.0358 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:27.0359 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:32.0362 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:37.0365 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:22:42.0368 UTC ->  [x] Received An example message from producing javascript app.
+2019.09.05, 16:43:54.0821 UTC -> connecting...
+2019.09.05, 16:44:53.0633 UTC -> connecting...
+2019.09.05, 16:44:53.0680 UTC -> connected.
+2019.09.05, 16:44:53.0681 UTC -> Creating channel...
+2019.09.05, 16:44:53.0694 UTC -> Channel created.
+2019.09.05, 16:44:53.0695 UTC ->  [*] Waiting for messages in %s. To exit press CTRL+C
+2019.09.05, 16:52:11.0973 UTC -> connecting...
+2019.09.05, 16:52:12.0024 UTC -> connected.
+2019.09.05, 16:52:12.0025 UTC -> Creating channel...
+2019.09.05, 16:52:12.0029 UTC -> Channel created.
+2019.09.05, 16:52:12.0030 UTC ->  [*] Waiting for messages in %s. To exit press CTRL+C
+2019.09.05, 16:55:50.0025 UTC -> connecting...
+2019.09.05, 17:00:32.0121 UTC -> connecting...
+2019.09.05, 17:00:32.0182 UTC -> connected.
+2019.09.05, 17:00:32.0183 UTC -> Creating channel...
+2019.09.05, 17:00:32.0189 UTC -> Channel created.
+2019.09.05, 17:00:32.0190 UTC ->  [*] Waiting for messages in %s. To exit press CTRL+C
+2019.09.05, 17:02:54.0478 UTC -> connecting...
+2019.09.05, 17:02:54.0545 UTC -> connected.
+2019.09.05, 17:02:54.0545 UTC -> Creating channel...
+2019.09.05, 17:02:54.0551 UTC -> Channel created.
+2019.09.05, 17:02:54.0552 UTC ->  [*] Waiting for messages in example. To exit press CTRL+C
+2019.09.05, 19:30:52.0731 UTC -> connecting...
+2019.09.05, 19:34:20.0100 UTC -> connecting...
+2019.09.05, 20:00:18.0263 UTC -> connecting...

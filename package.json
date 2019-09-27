@@ -1,0 +1,22 @@
+{
+  "name": "fullstacktemplate",
+  "version": "1.0.0",
+  "description": "A project to assist in creating a full stack template using deployment technologies including docker, kubernetes and helm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenwike/FullStackTemplate.git"
+  },
+  "author": "Stephen Wike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenwike/FullStackTemplate/issues"
+  },
+  "homepage": "https://github.com/stephenwike/FullStackTemplate#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}

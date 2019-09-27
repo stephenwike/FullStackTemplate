@@ -1,11 +1,10 @@
 #---------------BUILD
-# docker build -t producer-javascript-build .
+# docker build -t consumer-javascript-build .
 
 FROM node:latest
 
 WORKDIR /app
-COPY ./package*.json ./
-COPY ./send.js ./
+COPY . .
 
 RUN npm install
 
