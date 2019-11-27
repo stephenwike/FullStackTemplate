@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: aspnetcoreapp
+  name: aspnetcoreapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: aspnetcoreapp
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: aspnetcoreapp
+    spec:
+      containers:
+      - image: stephenwike/template-aspnetcore-webapi:1.0.0
+        name: aspnetcoreapp
+        resources: {}
+status: {}
